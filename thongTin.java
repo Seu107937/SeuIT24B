@@ -17,7 +17,7 @@ public class thongTin {
         System.out.println("nam: " + nam);
         System.out.println("lop: " + lop);
         System.out.println("khoa: " + khoa);
-        System.out.println("33 Xo Viet Nghe Tinh: " + diachi);
+        System.out.println("dia chi: " + diachi);
         System.out.println("---HET---");} 
           
 }
