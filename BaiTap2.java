@@ -13,7 +13,7 @@ public class BaiTap2 {
                System.out.println("Tam giác đều");
             }
             else{
-                if(a ==b || b == c || a == c)
+                if(a == b || b == c || a == c)
                 {
                     if (a * a == b * b + c * c || b * b == a * a + c * c || c * c == a * a + b * b){
                         System.out.println("Tam giác vuông cân");
